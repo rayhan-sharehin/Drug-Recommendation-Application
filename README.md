@@ -1,5 +1,5 @@
 # Drug-Recommendation-Application
-This project is an interactive real-time drug recommendation application that leverages machine learning and natural language processing to classify the sentiment of drug reviews and recommend the most effective medications for a given medical condition.
+This project is an interactive real-time drug recommendation application that leverages ML and NLP to classify the sentiment of drug reviews and recommend the most effective medications for a given medical condition.
 
 Key Features:
 
@@ -11,7 +11,7 @@ Rich User Insights: Displays average drug ratings and representative review exce
 
 Side Effect Search: Allows users to filter recommendations by side effects mentioned in real reviews for more informed choices.
 
-Robust Data Handling: Processes and cleans a large real-world dataset (61,000+ reviews), filtering out noisy and irrelevant data for improved accuracy.
+Robust Data Handling: Processes and cleans a large real-world dataset (1,61,000+ reviews), filtering out noisy and irrelevant data for improved accuracy.
 
 User-Friendly Interface: Features a Gradio-powered web app with an intuitive dropdown search and real-time responses.
 
